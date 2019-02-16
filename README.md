@@ -1,8 +1,4 @@
-```
-############################
 ##    Dungeons of Doom    ##
-############################
-```
 
 You are an adventurer that has managed to get themselves drapped in a dungeon!
 Find the gold you need and escape before you are caught, and meet your doom...
